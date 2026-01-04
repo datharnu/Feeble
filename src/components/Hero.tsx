@@ -6,7 +6,7 @@ import cloudLayer from '../assets/cloudLayer.png';
 import upBird from '../assets/up bird.png';
 import downBirdFirstLeft from '../assets/downbirdFirstLeft.png';
 import downBirdSecondLeft from '../assets/downbirdSecondLef.png';
-import downBirdFirstRight from '../assets/downbirdFirstright.png';
+import downBirdFirstRight from '../assets/downbirdFirstRight.png';
 import downBirdSecondRight from '../assets/downbirdSecondRight.png';
 import ArrowDownIcon from './icon/arrowIcon';
 import Navbar from './Navbar';
