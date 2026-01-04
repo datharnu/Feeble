@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { MessageCircle } from 'lucide-react';
 import apple from '../assets/apple.png';
-import cloudLayer from '../assets/cloudlayer.png';
+import cloudLayer from '../assets/cloudLayer.png';
 import upBird from '../assets/up bird.png';
 import downBirdFirstLeft from '../assets/downbirdFirstLeft.png';
 import downBirdSecondLeft from '../assets/downbirdSecondLef.png';
