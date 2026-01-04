@@ -1,3 +1,37 @@
+# iMessage Automation Dashboard - Technical Assessment
+
+## 📋 Project Overview
+This is a responsive, animated Hero section for "Coup" - an iMessage automation platform. Built as part of a technical assessment, this project demonstrates modern frontend development practices with a focus on animations, responsiveness, and clean architecture.
+
+## 🎯 Project Requirements Met
+- ✅ **Responsive Design**: Perfectly adapts from mobile to 4K displays
+- ✅ **Smooth Animations**: 15+ synchronized motion elements
+- ✅ **Performance Optimized**: 60fps animations with reduced motion support
+- ✅ **Pixel-Perfect Implementation**: Exact match to design specifications
+- ✅ **Clean Code Architecture**: Type-safe, modular, and maintainable
+
+## 🛠️ Tech Stack & Rationale
+
+| Technology | Purpose | Why Chosen |
+|------------|---------|------------|
+| **React 18** | UI Components | Industry standard, component-based architecture |
+| **TypeScript** | Type Safety | Catches errors early, improves developer experience |
+| **Tailwind CSS** | Styling | Utility-first, rapid development, responsive design |
+| **Framer Motion** | Animations | Production-ready, smooth 60fps animations |
+| **Vite** | Build Tool | Lightning-fast builds, excellent dev experience |
+| **Lucide Icons** | Iconography | Consistent, lightweight, React-optimized |
+
+## 🏗️ Architecture Decisions
+
+### 1. **Responsive Strategy**
+```tsx
+// Instead of fixed pixels, use responsive units:
+className="top-[15%] sm:top-[20%] lg:top-[291px]"
+// Mobile-first: Base → sm:640px → md:768px → lg:1024px → xl:1280px
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
