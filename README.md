@@ -31,7 +31,6 @@ className="top-[15%] sm:top-[20%] lg:top-[291px]"
 
 
 
-
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
